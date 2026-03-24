@@ -1,3 +1,8 @@
+---
+title: Mesin yang Memanusiakan Manusia
+tags:
+  - Essay
+---
 1 
 Aku suka membantu orang lain. aku juga mungkin menikmati belajar dari tekanan ini, bukan mencari juaranya namun rasa puas ketika mampu menghubungkan satu pengetahuan dengan pengetahuan lain yang sangat tidak berhubungan atau tidak pernah dipikirkan oleh orang-orang disekitarku, rasa nyaman ketika aku mampu menjelaskan dengan baik ke orang lain, mampu membantunya belajar menjadi lebih baik. Sering kudipandang aneh oleh orang-orang disekitarku, "kenapa kamu harus menghabiskan masa sekolahmu dengan membaca buku2 tebal dan meminta saran buku pengantar kuliah (apapun itu) ke guru?", namun untuk seterusnya mendekati transisi hidup kualami berbagai tragedi yang menyadarkanku bahwa aku harus mulai menetapkan prinsip dan tujuan hidup. seperti pemahat Pygmalion, bukan membuat Galatea, namun aku membangun diriku sendiri menuju perfeksionitas delusional, ingin menjadi sosok fiksi yang kuimpikan. kubaca buku demi buku. Kupilih keputusan hidup ini dengan persiapan matang mempelajari bagaimana studi ini dilahirkan sejak zama Hipokrates, Galen, Ibnu Sina, dan tokoh-tokoh lainnya. Hingga zaman modern ini dan proyeksinya menuju keabadian. Penyimpangan zaman tergelapnya; black death, eksperimen nazi, dan surat Anthrax di pentagon. Ternyata jas putih itu tidak sesuci masa lalunya.
 
@@ -69,6 +74,8 @@ Apakah robot juga memiliki hati?
 
 5
 Kuingat diriku 5 tahun yang lalu, diriku yang lugu. bagaimana jika aku tidak cuma menunggu juga? bagaimana jika aku membangun sesuatu yang lain beriringan bersama karir ini daripada hanya terus menunggu?
+
+Malam telah datang, kuterbangun di dalam dinginnya [[pesimisme]]
 
 setidaknya kucoba. hidup tidak harus menunggu hingga nanti. aku tidak harus menaruh kebahagiaan itu di akhir tujuanku, namun dalam proses itu aku bahagia, dan aku bisa bahagia kapanpun aku mau. kubiarkan diriku menjadi manusia yang memanusiakan manusia.
 

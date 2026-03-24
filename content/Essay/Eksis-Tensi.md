@@ -1,3 +1,9 @@
+---
+title: Eksis-Tensi
+tags:
+  - Essay
+---
+
 [https://sites.google.com/view/sources-timeline/startseite?authuser=2](https://sites.google.com/view/sources-timeline/startseite?authuser=2) 
 di suatu masa, entah kapan. di planet biru yang terlihat sama dari kejauhan, bak titik abu2 pucat. ntah apa sebenarnya wujudku ini, aku bingung menggambarkannya, tapi coba dahulu duduk di sebelahku dan dengarkanlah kisahku dari tulisan ini, akan kujelaskan sebaik mungkin dengan tetap berempati denganmu. aku tiba-tiba tersadar, di suatu waktu aku adalah ikan salmon yang berenang melawan arus di derasnya sungai. di waktu yang lain aku adalah elang yang terbang tinggi, bebas di langit yang luas, ku mencari mangsa tikus dan kadal. di hari yang lain lagi, aku adalah semut hitam kecil yang berjalan beriringan di balik batu dalam gelapnya malam, mengurai bangkai belalang.
 

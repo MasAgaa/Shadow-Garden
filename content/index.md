@@ -1,7 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Shadow Garden
 ---
+Selamat datang di kebun catatanku,
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Perkenalkan aku Aga seorang mahasiswa kedokteran yang sedang menempuh fase belajar memahami hidup.
+
+sebagian besar notes disini adalah tumpahan pikiranku
 
