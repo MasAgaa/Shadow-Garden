@@ -3,15 +3,15 @@ title: Petuah & Pepatah
 tags:
   - Book
 ---
-Ini adalah esai karya Arthur [[Schopenhauer]] yang ditulis sebagai bagian dari *Parerga and Paralipomena* dan terbit pada tahun 1851 M.
-
+#### Pengantar
+Ini adalah esai karya Arthur [[Schopenhauer]] yang ditulis sebagai bagian dari *Parerga and Paralipomena* terbit tahun 1851 M.
 Isinya tentang:
-- kebijaksanaan hidup
-- kebahagiaan praktis
-- relasi sosial
-- pengendalian diri
+- Kebijaksanaan hidup
+- Kebahagiaan praktis
+- Relasi sosial
+- Pengendalian diri
 
-#### Refleksi ke-18
+#### 18
 >A man should avoid being led on by the phantoms of his imagination. This is not the same thing as to submit to the guidance of ideas clearly thought out: and yet these are rules of life which most people pervert. If you examine closely into the circumstances which, in any deliberation, ultimately turn the scale in favor of some particular course, you will generally find that the decision is influenced, not by any clear arrangement of ideas leading to a formal judgment, but by some fanciful picture which seems to stand for one of the alternatives in question.
 >In one of [[Voltaire]]'s or [[Diderot]]'s romances,—I forget the precise reference,—the hero, standing like a young Hercules at the parting of ways, can see no other representation of Virtue than his old tutor holding a snuff-box in his left hand, from which he takes a pinch and moralizes; whilst Vice appears in the shape of his mother's chambermaid. It is in youth, more especially, that the goal of our efforts comes to be a fanciful picture of happiness, which continues to hover before our eyes sometimes for half and even for the whole of our life—a sort of mocking spirit; for when we think our dream is to be realized, the picture fades away, leaving us the knowledge that nothing of what it promised is actually accomplished. How often this is so with the visions of domesticity—the detailed picture of what our home will be like; or, of life among our fellow-citizens or in society; or, again, of living in the country—the kind of house we shall have, its surroundings, the marks of honor and respect that will be paid to us, and so on,—whatever our hobby may be; *chaque fou a sa marotte*. It is often the same, too, with our dreams about one we love. And this is all quite natural; for the visions we conjure up affect us directly, as though they were real objects; and so they exercise a more immediate influence upon our will than an abstract idea, which gives merely a vague, general outline, devoid of details; and the details are just the real part of it. We can be only indirectly affected by an abstract idea, and yet it is the abstract idea alone which will do as much as it promises; and it is the function of education to teach us to put our trust in it. Of course the abstract idea must be occasionally explained—paraphrased, as it were—by the aid of pictures; but discreetly, *cum grano salis*. [^1]
 

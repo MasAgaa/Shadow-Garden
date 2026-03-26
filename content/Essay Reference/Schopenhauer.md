@@ -3,4 +3,5 @@ title: Arthur Schopenhauer
 tags:
   - Philosopher
 ---
-Maxims & Counsel (terj. Petuah dan Pet)
+Books
+[[Counsels & Maxims]] (terj. Petuah dan Pepatah)
