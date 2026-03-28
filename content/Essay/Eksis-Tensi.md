@@ -39,4 +39,5 @@ Amor fati & eternal regression by Nietzche
 
 ku berjalan di padang rumput, kutemukan bunga, bunga yang sangat mirip sekali dengan yang kutemui di akhir zaman es,
 
-aku berakhir terperangkap dalam takdir ini,
+aku berakhir terperangkap dalam takdir ini, 
+Peperangan dan kerusakan di muka bumi ini.
