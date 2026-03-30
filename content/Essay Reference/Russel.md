@@ -1,5 +1,5 @@
 ---
-title: Betrand Russel
+title: Bertrand Russel
 tags:
   - Philosopher
   - Writers
