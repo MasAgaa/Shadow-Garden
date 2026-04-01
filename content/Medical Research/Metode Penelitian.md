@@ -39,3 +39,5 @@ Penjelasan Mikro
 - Bagaimana proses perhitungan hasil IC50
 - Bagaimana pengolahan data hasil penelitian yang kamu dapatkan
 - Bagaimana interpretasi hasil yang kamu dapatkan dan hubungkan dengan hipotesis dan rumusan masalah peneliatianmu.
+
+[[Uji Statistik Parametrik]]

@@ -4,6 +4,7 @@
 
 - Jelaskan apa itu hipotesis penelitian dan bagaimana bentuk hipotesis tersebut dalam penelitian mu
 - Jelaskan tentang hipotesis statistik komparatif dua kelompok
+- [[Hipotesis Komparatif]]
 
 - Bagaimana alur penelitianmu akan dilaksanakan
 - Jelaskan apa itu *post-test only control group design*

@@ -1,0 +1,1 @@
+Data IC₅₀ = Numerik Kontinyu
