@@ -2,7 +2,7 @@ Penjelasan Makro
 - Jelaskan apa itu in vitro, in vivo, dan ex vivo. serta apa saja karakteristiknya
 - Jelaskan apa itu metode DPPH
 - Kenapa menggunakan metode DPPH
-- Memangnya selain metode DPPH ada jenis metode yang lain (Sebutkan metode pengukuran aktivitas antioksidan lain)
+- Memangnya selain metode DPPH ada jenis metode yang lain (Sebutkan metode pengukuran aktivitas antioksidan lain) [[Metode Pengukuran Aktivitas Antioksidan]]
 - Apa perbedaan metode DPPH dari metode pengurkuran antioksidan lain
 - Kenapa kamu memilih metode DPPH untuk digunakan pada penelitianmu
 - Apa saja keunggulan dari metode DPPH

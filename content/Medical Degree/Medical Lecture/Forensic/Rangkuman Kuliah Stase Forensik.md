@@ -4,3 +4,6 @@ tags:
   - Medical
   - Lecture
 ---
+Stase Forensik LO
+[[Visum et Repertum]]
+[[Thanotologi]]

@@ -2,7 +2,7 @@ digunakan untuk membandingkan median dari ≥3 kelompok independen ketika data t
 
 uji nonparametrik yang digunakan untuk menentukan apakah terdapat perbedaan distribusi (umumnya median) antara tiga atau lebih kelompok independen dengan satu faktor.
 
-- Alternatif dari [[One-way ANOVA]]
+- Alternatif dari [[One-way ANOVA Test]]
 - Data:
     - Tidak berdistribusi normal
     - Skala ordinal atau numerik non-normal

@@ -1,0 +1,57 @@
+- Apa yang dimaksud dengan _Visum et Repertum_?
+- Apa arti kata “visum” dan “repertum” secara etimologis?
+- Mengapa visum et repertum dianggap sebagai pengganti barang bukti?
+- Mengapa tubuh manusia tidak bisa dijadikan barang bukti secara langsung?
+- Apa dasar hukum atau kekuatan visum et repertum dalam proses peradilan?
+- Siapa saja yang berhak meminta visum et repertum?
+- Siapa saja yang berhak membuat visum et repertum?
+- Mengapa permintaan visum harus dilakukan secara tertulis?
+- Apa konsekuensi jika permintaan visum dilakukan secara lisan?
+- Mengapa visum tidak boleh diminta untuk peristiwa yang sudah lama berlalu?
+- Apa saja syarat administratif dalam permintaan visum et repertum?
+- Mengapa korban harus dibawa bersama surat permintaan visum?
+- Apa saja isi utama dari Surat Permintaan Visum et Repertum (SPVR)?
+- Apa saja yang harus dicantumkan pada bagian:
+	- Sudut kiri atas?
+	- Sudut kanan atas?
+- Informasi apa saja yang harus ada pada bagian tengah SPVR?
+- Mengapa identitas korban harus dicantumkan secara lengkap?
+- Apa fungsi tulisan **“Pro Justitia”** dalam visum?
+- Apa saja isi bagian **pendahuluan** dalam visum?
+- Informasi apa saja yang harus ada pada bagian **pemberitaan**?
+- Apa saja syarat penulisan bagian pemberitaan?
+- Mengapa bahasa dalam visum harus mudah dipahami orang awam?
+- Mengapa tidak boleh ada baris kosong dalam visum?
+- Apa saja komponen anamnesis dalam visum?
+- Informasi apa yang harus digali terkait mekanisme trauma?
+- Apa saja yang harus diperhatikan dalam pemeriksaan fisik visum?
+- Bagaimana cara mendeskripsikan luka yang baik?
+- Apa saja yang harus dicantumkan dalam pemeriksaan penunjang?
+- Mengapa riwayat perawatan penting dalam visum?
+- Apa perbedaan sifat bagian pemberitaan dan kesimpulan?
+- Mengapa kesimpulan bersifat subjektif?
+- Apa saja yang harus dicantumkan dalam kesimpulan pada kasus luka?
+- Mengapa interpretasi luka penting bagi hakim?
+- Apa saja jenis visum et repertum?
+- Apa perbedaan visum korban hidup dan visum mayat?
+- Kapan diperlukan visum sementara?
+- Apa tujuan visum lanjutan?
+- Mengapa visum mayat harus berdasarkan autopsi lengkap?
+- Apa tujuan kualifikasi luka dalam visum?
+- Sebutkan klasifikasi luka menurut KUHP!
+- Apa perbedaan luka ringan dan luka yang menghalangi pekerjaan?
+- Apa saja kriteria luka berat?
+- Apa saja kondisi yang termasuk luka berat menurut KUHP?
+- Mengapa kehilangan panca indera termasuk luka berat?
+- Mengapa gangguan fungsi kognitif >4 minggu masuk luka berat?
+- Bagaimana status keguguran akibat kekerasan dalam klasifikasi luka?
+- Seorang pasien datang dengan luka akibat benda tumpul. Apa saja yang harus kamu tuliskan dalam visum?
+- Polisi meminta visum secara lisan melalui telepon. Apa yang harus kamu lakukan?
+- Pasien pulang paksa sebelum selesai perawatan. Apa yang harus dicantumkan dalam visum?
+- Bagaimana cara menentukan derajat luka pada pasien korban penganiayaan?
+- Jika luka menyebabkan pasien tidak bisa bekerja selama 2 minggu, masuk kategori apa?
+- Bagaimana peran visum dalam membuktikan unsur pidana?
+- Apa dampak kesalahan penulisan visum terhadap proses hukum?
+- Mengapa objektivitas sangat penting dalam visum?
+- Bagaimana jika dokter memberikan opini di luar kompetensinya?
+- Bagaimana hubungan visum dengan prinsip medicolegal?

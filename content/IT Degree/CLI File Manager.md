@@ -1,0 +1,3 @@
+FZF
+Ranger
+Yazi
